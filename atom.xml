@@ -6,7 +6,7 @@
   <link href="http://yuweikuo.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuweikuo.github.io/"/>
-  <updated>2021-08-24T04:05:53.394Z</updated>
+  <updated>2021-08-24T10:59:40.215Z</updated>
   <id>http://yuweikuo.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yuweikuo.github.io/2021/08/24/npm-update%E6%8C%87%E4%BB%A4/"/>
     <id>http://yuweikuo.github.io/2021/08/24/npm-update%E6%8C%87%E4%BB%A4/</id>
     <published>2021-08-24T04:05:19.000Z</published>
-    <updated>2021-08-24T04:05:53.394Z</updated>
+    <updated>2021-08-24T10:59:40.215Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">//以下命令分别执行即可<br>npm install -g npm-check     //安装npm-check<br>npm-check                    //查看系统插件是否需要升级<br>npm install -g npm-upgrade   //安装npm-upgrade<br>npm-upgrade        //更新package.json<br>//在执行npm-upgrade命令后会要求输入yes或者no，直接输入Yes或Y即可<br>npm update -g      //更新全局插件<br>npm update --save  //更新系统插件<br><br></code></pre></td></tr></tbody></table></figure>]]></content>
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; npm install -g npm-check     //安装npm-check<br>&gt;&gt; npm-check                    //查看系统插件是否需要升级<br>&gt;&gt; npm install -g npm-upgrade   //安装npm-upgrade<br>&gt;&gt; npm-upgrade        //更新package.json<br>//在执行npm-upgrade命令后会要求输入yes或者no，直接输入Yes或Y即可<br>&gt;&gt; npm update -g      //更新全局插件<br>&gt;&gt; npm update --save  //更新系统插件<br><br></code></pre></td></tr></tbody></table></figure>]]></content>
     
     
       
