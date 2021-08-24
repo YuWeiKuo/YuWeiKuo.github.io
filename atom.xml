@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kuo&#39;s Note</title>
+  
+  <subtitle>生活紀錄</subtitle>
+  <link href="http://yuweikuo.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yuweikuo.github.io/"/>
+  <updated>2021-08-24T04:05:53.394Z</updated>
+  <id>http://yuweikuo.github.io/</id>
+  
+  <author>
+    <name>William Kuo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>npm update指令</title>
+    <link href="http://yuweikuo.github.io/2021/08/24/npm-update%E6%8C%87%E4%BB%A4/"/>
+    <id>http://yuweikuo.github.io/2021/08/24/npm-update%E6%8C%87%E4%BB%A4/</id>
+    <published>2021-08-24T04:05:19.000Z</published>
+    <updated>2021-08-24T04:05:53.394Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">//以下命令分别执行即可<br>npm install -g npm-check     //安装npm-check<br>npm-check                    //查看系统插件是否需要升级<br>npm install -g npm-upgrade   //安装npm-upgrade<br>npm-upgrade        //更新package.json<br>//在执行npm-upgrade命令后会要求输入yes或者no，直接输入Yes或Y即可<br>npm update -g      //更新全局插件<br>npm update --save  //更新系统插件<br><br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+      
+    
+    
+    
+    
+    <category term="linux" scheme="http://yuweikuo.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工作滿三個月</title>
+    <link href="http://yuweikuo.github.io/2021/08/24/%E5%B7%A5%E4%BD%9C%E6%BB%BF%E4%B8%89%E5%80%8B%E6%9C%88/"/>
+    <id>http://yuweikuo.github.io/2021/08/24/%E5%B7%A5%E4%BD%9C%E6%BB%BF%E4%B8%89%E5%80%8B%E6%9C%88/</id>
+    <published>2021-08-24T02:34:43.000Z</published>
+    <updated>2021-08-24T05:40:28.275Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="工作三個月"><a href="#工作三個月" class="headerlink" title="工作三個月"></a>工作三個月</h2><p>今天是2021.08.24，工作滿三個月，也就是試用期，在面試的時候，主管就說過，這個職位其實沒有試用期，因為面試過了就是符合標準，但是公司制度上還是有。</p><h2 id="成長"><a href="#成長" class="headerlink" title="成長"></a>成長</h2><p>雖然三個月了，但是還是有很多東西要學，畢竟我不是相關科系出身的，作中學，跟著作實際案件，然後成長，相比知識跟技術，在一個公司而不是學校，最重要的是如何與人相處以及如何跟人交流，在遇到問題時要找誰處理，也就是需要了解公司的管理結構，期待在未來能有所成長。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;工作三個月&quot;&gt;&lt;a href=&quot;#工作三個月&quot; class=&quot;headerlink&quot; title=&quot;工作三個月&quot;&gt;&lt;/a&gt;工作三個月&lt;/h2&gt;&lt;p&gt;今天是2021.08.24，工作滿三個月，也就是試用期，在面試的時候，主管就說過，這個職位其實沒有試用期，因為面試過</summary>
+      
+    
+    
+    
+    
+    <category term="隨筆" scheme="http://yuweikuo.github.io/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工作的第一個月</title>
+    <link href="http://yuweikuo.github.io/2021/06/29/%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%AC%AC%E4%B8%80%E5%80%8B%E6%9C%88/"/>
+    <id>http://yuweikuo.github.io/2021/06/29/%E5%B7%A5%E4%BD%9C%E7%9A%84%E7%AC%AC%E4%B8%80%E5%80%8B%E6%9C%88/</id>
+    <published>2021-06-29T09:10:27.000Z</published>
+    <updated>2021-06-29T09:36:55.707Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="入職當天"><a href="#入職當天" class="headerlink" title="入職當天"></a>入職當天</h2><p>我在2021.05.24入職，因為疫情的原因，所以只有第一天早上報到有到公司，第二天開始就居家上班，第一天的第一個行程是在演講廳聽HR介紹公司內部規定、領工作證，然後就是個部門的同事帶到部門上，座位上的電話座機、了解一些公司規則、設定通訊軟體、還有領筆電。</p><h2 id="公司疫情規定"><a href="#公司疫情規定" class="headerlink" title="公司疫情規定"></a>公司疫情規定</h2><p>公司是分ABC班，我分在C班，C班是都不能來公司，A和B輪流去公司，2021.07.05開始我改為A班。</p><h2 id="居家上班"><a href="#居家上班" class="headerlink" title="居家上班"></a>居家上班</h2><p>在這個月裡，我大部分是自己讀EMC相關的書籍，有些書是同事跟主管給的，有些是自己買的，我們部門是司徒制的，所以有同事會帶我，基本上就是給了我一些專案，讓我自己練習，有問題問，因為是居家上班，所以不方便當面問，都是通過Skype，比較麻煩，也因為這樣就避免了我問很蠢的問題，因為我不是電機系畢業的，所以有些基礎知識不了解，其實工作過程中很多問題可以自己摸索。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;入職當天&quot;&gt;&lt;a href=&quot;#入職當天&quot; class=&quot;headerlink&quot; title=&quot;入職當天&quot;&gt;&lt;/a&gt;入職當天&lt;/h2&gt;&lt;p&gt;我在2021.05.24入職，因為疫情的原因，所以只有第一天早上報到有到公司，第二天開始就居家上班，第一天的第一個行程是在演</summary>
+      
+    
+    
+    
+    
+    <category term="隨筆" scheme="http://yuweikuo.github.io/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+    <category term="工作" scheme="http://yuweikuo.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>EMC專業術語中英文</title>
+    <link href="http://yuweikuo.github.io/2021/06/03/EMC%E5%B0%88%E6%A5%AD%E8%A1%93%E8%AA%9E/"/>
+    <id>http://yuweikuo.github.io/2021/06/03/EMC%E5%B0%88%E6%A5%AD%E8%A1%93%E8%AA%9E/</id>
+    <published>2021-06-03T04:10:07.000Z</published>
+    <updated>2021-06-29T09:52:30.672Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="EMC"><a href="#EMC" class="headerlink" title="EMC"></a>EMC</h2><p>EMC (Electromagnetic Compacitibility):<br>電磁相容。</p><p>EMS (Electromagnetic Susceptibility):<br>電磁耐受力。</p><p>EMI (Electromagnetic Interference):<br>電磁干擾。</p><p>Electrical Dimension:<br>電性尺寸，是以波長為單位的尺寸。</p><p>Aggressor:<br>造成干擾的線路(EMI)。</p><p>Victim:<br>被干擾的線路(EMS)。</p><p>Transfer Function:<br>遞移函數，在電子學裡為頻率響應函數。</p><br><span id="more"></span><h2 id="Computer"><a href="#Computer" class="headerlink" title="Computer"></a>Computer</h2><p>Computer case (or Computer Chassis, Cabinet):<br>電腦機殼。</p><p>Power Supply Unit (PSU):<br>電源供應器。</p><p>Generator:<br>發電機。</p><p>EMI Gasket:<br>導電泡綿，應用在電腦機殼的密封，以及防止EMI。</p><p>FFC (Flexible Flat Cable):<br>是一種扁平柔軟的排線。</p><p>LVDS Cable Low-Voltage Differential Signaling Cable:<br>低電壓差分訊號電纜。</p><p>Hinge:<br>鉸鏈。 </p><p>Panel:<br>面板。</p><p>LCD (Liquid Crystal Display):<br>液晶顯示器。</p><p>Bezel:<br>螢幕的邊框。</p><p>ESD (Electrostatic Discharge):<br>靜電放電。</p><p>EFT (Electrical Fast Transient):<br>電子快速脈衝。</p><p>Ribbon Cable:<br>排線。</p><br><h2 id="PCB-and-Circuit"><a href="#PCB-and-Circuit" class="headerlink" title="PCB and Circuit"></a>PCB and Circuit</h2><p>PCB (Printed Circuit Board):<br>印刷電路板。</p><p>Integrated Circuit Layout:<br>積體電路版圖。</p><p>佈局 Placement:<br>把電路元件放到PCB上。</p><p>佈線 Routing：<br>在佈局後，佈線是將這些組件相連。</p><p>Lands:<br>PCB上的帶狀線。</p><p>Power Switch:<br>電源開關。</p><p>SMT (Surface-mount technolongy):<br>表面黏著技術，是將電子元件安裝到PCB的技術。</p><p>Connecting Lead:<br>連接線、元件的接腳。</p><p>SSD (Solid-state Drive):<br>固態硬碟。</p><p>DDR SDRAM (Double Data Rate Synchronous Dynamics Random Access Memory):<br>雙倍資料率同步動態隨機存取記憶體，就是一種記憶體。</p><p>LAN (Local Area Network):<br>區域網路，是需要插網路線的，例如：乙太網路。</p><p>WLAN (Wireless LAN):<br>無線區域網路，例如：Wi-Fi。</p><p>PCH (Platform Controller Hub):<br>平台路徑控制器，用來取代北橋和南橋晶片。</p><p>PMIC (Power Management IC):<br>電源管理IC。</p><p>Parasitic Element:<br>寄生元件，非預期的等效電子元件。一個環形線路通常有寄生電容和寄生電感，電阻在高頻的是候會有寄生電容的特性，電容會有寄生電阻，主要原因為電容的介電質和平板提供電阻，電感有寄生電容跟寄生電阻，可能原因為線圈是層狀結構，類似電容。</p><p>Lumped Circuit:<br>集總電路，電性尺寸小於電磁波波長，通常尺寸 $L&lt;\lambda/10$ ，也就是頻率較高的模型。</p><p>Distributed-element Circuit:<br>分佈元件電路，電性尺寸較大，頻率較低的模型。</p><p>LISN (Line Impedance Stablilization Network):<br>電源線阻抗穩定網絡。</p><p>ASIC (Application Specific Integrated Circuit):<br>特定應用積體電路。</p><p>Solder:<br>焊料、銲錫。</p><p>Soler Mask (S/M):<br>阻焊層，防止在不該上錫的地方上錫。</p><p>Paste Mask:<br>銲錫膏防護層。</p><p>Microstrip:<br>微帶線，通常是在PCB頂層或底層的線。</p><p>Stripline:<br>帶狀線，是PCB裡層的線。</p><p>DC Jack:<br>DC電源茶座、充電接口。</p><p>Connector:<br>連接器，使線與適當的元件連結。</p><br><h2 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h2><p>BGA (Ball Grid Array):<br>球柵網格陣列封裝，用來永久固定CPU的方式，是將CPU底部焊上一顆一顆的錫球。</p><p>PGA (Pin Grid Array):<br>插針網格陣列封裝，也是用來永久固定CPU的方式，是將CPU底部焊上一根一根的插針。</p><p>LGA (Land Grid Array):<br>平面網格陣列封裝，也是用來永久固定CPU的方式，不過不是將插針焊到CPU，而是焊到PCB的插座上。</p><br><h2 id="Memory"><a href="#Memory" class="headerlink" title="Memory"></a>Memory</h2><p>ROM (Read-only Memory):<br>只讀記憶體。</p><p>RAM (Random Access Memory):<br>隨機存儲記憶體。</p><p>DRAM (Dynamic Random Access Memory):<br>動態隨機存儲記憶體。</p><br><h2 id="I-O-Port"><a href="#I-O-Port" class="headerlink" title="I/O Port"></a>I/O Port</h2><p>COM port (Communication Port or Serial Port):<br>通訊埠。</p><p>HDMI (High Definition Multimedia Interface):<br>高畫質多媒體介面，傳送影像和聲音，高速訊號線。</p><p>DP Port (Display Port)</p><br><h2 id="Hole"><a href="#Hole" class="headerlink" title="Hole"></a>Hole</h2><p>PTH (Plating Through Hole):<br>電鍍通孔，用來焊接元件用的，PTH是一種打通PCB的孔洞。</p><p>NPTH (Non Plating Through Hole):<br>非電鍍通孔，通常是用來鎖螺絲，固定PCB，NPTH也是一種打通PCB的孔洞。</p><p>Via:<br>導通孔，用來連結PCB不同層的線路，通常不會打通PCB。</p><p>BVH (Blind Via Hole):<br>盲孔，是via的一種，接通PCB最外層到內層，沒有打通PCB。</p><p>BVH (Burried Via Hole):<br>埋孔，也是via的一種，接通內層到另一內層，沒有打通PCB。</p><p>Aperture:<br>孔徑、孔洞。</p><p>Seam:<br>接縫。</p><br><h2 id="Spectrum-and-Signals"><a href="#Spectrum-and-Signals" class="headerlink" title="Spectrum and Signals"></a>Spectrum and Signals</h2><p>Decibel 分貝：<br>訊號的振幅單位dB。</p><p>Broad Band 寬頻：<br>較寬的頻帶。</p><p>Narrow Band 窄頻：<br>較窄的頻帶。</p><p>Bandwidth 頻寬：<br>指的是訊號佔據的頻帶寬度。</p><p>Clock Signal (CLK Signal) 時脈訊號：<br>就是週期訊號。</p><p>Pulse Signal 脈波訊號：<br>非週期訊號。</p><p>Effect of ring：<br>振鈴效應，電壓或電流非預期的振盪，通常是寄生電容或寄生電感產生。</p><p>時間偏移 Time skew:<br>指的是CLK 訊號到達不同的元件有時間差，因為線路長度不相同。</p><p>Signal Integrity (SI):<br>訊號完整性，影響SI的情況有振鈴效應(ringing)、串擾(crosstalk)、時鐘偏移(Time Skew)等等。</p><p>Signal Trace:<br>訊號傳輸線、訊號走線。</p><p>Rise time:<br>上升時間，梯形脈波從波底到波峰的時間，實際上是高度10%到90%的時間。</p><br><h2 id="Analysis"><a href="#Analysis" class="headerlink" title="Analysis"></a>Analysis</h2><p>DC Analysis:<br>直流分析，對靜態特性進行分析。了解直流特性。</p><p>AC Analysis:<br>交流特性，主要分析與頻率相關的特性，如頻域分析(Frequency Domain Analysis)。</p><p>Trasient Analysis:<br>暫態分析，是頻率響應特性的分析，也稱為時域分析(Time Domain Analysis)，顧名思義，變數為時間，如示波器。</p><p>SAR (Specific Absorption Rate):<br>特殊吸收比。</p><br><h2 id="EMC-Standard"><a href="#EMC-Standard" class="headerlink" title="EMC Standard"></a>EMC Standard</h2><p>FCC (Federal Communication Commision):<br>聯邦通信委員會。</p><p>CISPR (International Special Committee on Radio Interference):<br>國際無線電干擾特別委員會。</p><p>AWG (American Wire Gauge):<br>美國導線規格，規定美國導線直徑的標準。</p><br><h2 id="Electromagnetic-Material"><a href="#Electromagnetic-Material" class="headerlink" title="Electromagnetic Material"></a>Electromagnetic Material</h2><p>Diamagnetic:<br>反磁性。</p><p>Paramagnetic:<br>順磁性。</p><p>Ferromagnetic:<br>鐵磁性。</p><p>Eddy current:<br>渦電流，磁場變化產生的電流。</p><p>Ferrite Beads:<br>亞鐵鹽磁芯，在高頻時有高阻抗，渦電流很小。</p><p>Common-mode Current:<br>共模電流，兩條電線上的電流分成流向相同的電流。</p><p>Differential-mode Current;<br>差模電流，兩條電線上的電流分成流向相反的電流。</p><p>Common Mode Choke:<br>共模濾波電感器、共模扼流線圈或共模電感，主要用來過濾信號線的共模電流所產生的電磁干擾，差模電流可以傳遞訊號，共模電流很小，遠小於差模電流，但是共模電流所產生的電磁輻射遠大於差模電流。</p><p>Arcing:<br>電弧放電，因為電場過強，產生放電的現象。</p><p>Mutual Capacitance:<br>互容，兩個鄰近導體之間的電容。</p><br><h2 id="Software"><a href="#Software" class="headerlink" title="Software"></a>Software</h2><p>CAD (Computer Aided Design):<br>電腦輔助設計。</p><p>EDA (Electronics Design Audomation):<br>電子設計自動化，利用CAD設計積體電路。</p><br><h2 id="Device-amp-Component"><a href="#Device-amp-Component" class="headerlink" title="Device &amp; Component"></a>Device &amp; Component</h2><p>Stator:<br>固定子，在馬達中保持固定不動的部分。</p><p>Rotor:<br>轉子，在馬達中旋轉的部分。</p><p>Commutator:<br>換向器，在馬達中改變電流方向。</p><br><h2 id="其他常見的英文單字"><a href="#其他常見的英文單字" class="headerlink" title="其他常見的英文單字"></a>其他常見的英文單字</h2><p>Susceptilbe adj. 敏感的</p><p>Interconnect v. 連結</p><p>Standpoint n. 觀點</p><p>Topology n. 結構</p><p>Implement v. 實施 n. 工具</p><p>Anodizing n. 陽極處理</p><p>Passivation n. 鈍化</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;EMC&quot;&gt;&lt;a href=&quot;#EMC&quot; class=&quot;headerlink&quot; title=&quot;EMC&quot;&gt;&lt;/a&gt;EMC&lt;/h2&gt;&lt;p&gt;EMC (Electromagnetic Compacitibility):&lt;br&gt;電磁相容。&lt;/p&gt;
+&lt;p&gt;EMS (Electromagnetic Susceptibility):&lt;br&gt;電磁耐受力。&lt;/p&gt;
+&lt;p&gt;EMI (Electromagnetic Interference):&lt;br&gt;電磁干擾。&lt;/p&gt;
+&lt;p&gt;Electrical Dimension:&lt;br&gt;電性尺寸，是以波長為單位的尺寸。&lt;/p&gt;
+&lt;p&gt;Aggressor:&lt;br&gt;造成干擾的線路(EMI)。&lt;/p&gt;
+&lt;p&gt;Victim:&lt;br&gt;被干擾的線路(EMS)。&lt;/p&gt;
+&lt;p&gt;Transfer Function:&lt;br&gt;遞移函數，在電子學裡為頻率響應函數。&lt;/p&gt;
+&lt;br&gt;</summary>
+    
+    
+    
+    
+    <category term="EMC" scheme="http://yuweikuo.github.io/tags/EMC/"/>
+    
+    <category term="PCB" scheme="http://yuweikuo.github.io/tags/PCB/"/>
+    
+    <category term="電磁學" scheme="http://yuweikuo.github.io/tags/%E9%9B%BB%E7%A3%81%E5%AD%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>orCAD Capture CIS 16.X 中英文名稱</title>
+    <link href="http://yuweikuo.github.io/2021/06/01/orCAD-Capture-CIS-16-X-%E5%90%8D%E7%A8%B1/"/>
+    <id>http://yuweikuo.github.io/2021/06/01/orCAD-Capture-CIS-16-X-%E5%90%8D%E7%A8%B1/</id>
+    <published>2021-06-01T02:12:39.000Z</published>
+    <updated>2021-06-02T08:56:23.329Z</updated>
+    
+    <content type="html"><![CDATA[<p>Block Diagram:<br>電路方塊圖，簡略的電路圖。</p><p>Netname:<br>電路網路名稱。</p><p>Short Land:<br>直接拉直走線，不放入元件。在EMC設計的時候，會在I/O port後面加上Common-mode choke來減少干擾訊號，但是有時候為了減少成本會在可接受一點干擾訊號時拿掉Common-mode choke，直接short land。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Block Diagram:&lt;br&gt;電路方塊圖，簡略的電路圖。&lt;/p&gt;
+&lt;p&gt;Netname:&lt;br&gt;電路網路名稱。&lt;/p&gt;
+&lt;p&gt;Short Land:&lt;br&gt;直接拉直走線，不放入元件。在EMC設計的時候，會在I/O port後面加上Common-mode choke來減</summary>
+      
+    
+    
+    
+    
+    <category term="PCB" scheme="http://yuweikuo.github.io/tags/PCB/"/>
+    
+    <category term="orCAD" scheme="http://yuweikuo.github.io/tags/orCAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo deploy之後，github沒更新</title>
+    <link href="http://yuweikuo.github.io/2021/05/29/Hexo-deploy%E4%B9%8B%E5%BE%8C%EF%BC%8Cgithub%E6%B2%92%E6%9B%B4%E6%96%B0/"/>
+    <id>http://yuweikuo.github.io/2021/05/29/Hexo-deploy%E4%B9%8B%E5%BE%8C%EF%BC%8Cgithub%E6%B2%92%E6%9B%B4%E6%96%B0/</id>
+    <published>2021-05-29T05:59:24.000Z</published>
+    <updated>2021-05-29T06:08:25.219Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="問題"><a href="#問題" class="headerlink" title="問題"></a>問題</h2><p>執行以下command</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; hexo clean<br>&gt;&gt; hexo g<br>&gt;&gt; hexo d<br></code></pre></td></tr></tbody></table></figure><p>發現github沒更新，所以Blog網頁也沒更新</p><h2 id="解決方法"><a href="#解決方法" class="headerlink" title="解決方法"></a>解決方法</h2><p>執行以下command，輸入github電子郵件及使用者名稱</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git config --global user.email <span class="hljs-string">"you@example.com"</span><br>&gt;&gt; git config --global user.name <span class="hljs-string">"Your Name"</span><br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;問題&quot;&gt;&lt;a href=&quot;#問題&quot; class=&quot;headerlink&quot; title=&quot;問題&quot;&gt;&lt;/a&gt;問題&lt;/h2&gt;&lt;p&gt;執行以下command&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td c</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="http://yuweikuo.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工作面試心得</title>
+    <link href="http://yuweikuo.github.io/2021/05/16/%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97/"/>
+    <id>http://yuweikuo.github.io/2021/05/16/%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97/</id>
+    <published>2021-05-16T08:29:15.000Z</published>
+    <updated>2021-06-29T10:05:01.981Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="面試心得"><a href="#面試心得" class="headerlink" title="面試心得"></a>面試心得</h2><p>我在面試過程中，如果是被問論文的話，6～7句話介紹完，這時候面試官可能還會繼續問，看他問什麼就回答什麼，面試一定會問的問題是你有遇過什麼挫折，我就講我以前學程式的過程，介紹挫折的過程就是長篇大論了。</p><p>有些面試官是會做筆記，他只會寫關鍵字，所以長篇大論沒用，他們之後開會討論是不是要錄用這個人的時候，只是看寫下來的關鍵字，有些面試官不會寫筆記，這時候只是聊天，就可以長篇大論了，我感覺面試過程如何並不會影響錄用結果，畢竟主管並不會在面試時表達情緒跟喜好，所以無法判斷。</p><p>如果公司有兩次面試的話，第一次面試通常是部門的小主管，大部分是懂技術的，面試的部門如果不是研發部門，二面的主管有非理工科背景，我面試講的內容他完全聽不懂，好像也沒什麼興趣，變成很難面試下去，在那個氣氛中就會顯得面試者表現很差，所以面試時要準備兩種自我介紹，一個是研發部門、另一個是非研發部門的。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;面試心得&quot;&gt;&lt;a href=&quot;#面試心得&quot; class=&quot;headerlink&quot; title=&quot;面試心得&quot;&gt;&lt;/a&gt;面試心得&lt;/h2&gt;&lt;p&gt;我在面試過程中，如果是被問論文的話，6～7句話介紹完，這時候面試官可能還會繼續問，看他問什麼就回答什麼，面試一定會問的問題是</summary>
+      
+    
+    
+    
+    
+    <category term="隨筆" scheme="http://yuweikuo.github.io/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+    <category term="工作" scheme="http://yuweikuo.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工作面試過程</title>
+    <link href="http://yuweikuo.github.io/2021/04/30/%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E9%81%8E%E7%A8%8B/"/>
+    <id>http://yuweikuo.github.io/2021/04/30/%E5%B7%A5%E4%BD%9C%E9%9D%A2%E8%A9%A6%E9%81%8E%E7%A8%8B/</id>
+    <published>2021-04-30T06:06:23.000Z</published>
+    <updated>2021-06-29T09:55:02.655Z</updated>
+    
+    <content type="html"><![CDATA[<p>人生第一場面試面：群創光電-光學開發工程師 (HR邀請面試)<br>時間：2021/02/05<br>工作地點：竹南<br>面試地點：竹南</p><p>一開始先在電腦做性向測驗還有英文，英文的難度比TOEIC還簡單，考聽力閱讀還有文法，然後再面試主管，共有兩個主管，一個年輕，一個比較資深，我先自我介紹，然後講一些碩士論文的內容，再來是主管介紹工作職位，然後是問問題，這是我第一次面試，有點緊張，講話有點文不對題，這個面試結果要到群創的line 帳號查，不會通知。</p><p>結果：未錄取</p><hr><p>第二場面試：神基科技-Android工程師 (HR邀請面試)<br>時間：2021/02/08<br>工作地點：台北市南港<br>面試地點：網路視訊</p><p>一開始跟人資聊關於我的一些想法，大概一個小時，在跟主管面試，跟主管面試時有有4個人在旁聽包括人資，先自我介紹，講一些我以前寫程式的經驗，然後考寫程式，最後主管介紹工作以及公司。</p><p>結果：未錄取</p><span id="more"></span> <hr><p>第三場面試：群聯電子-韌體工程師 (主動投履歷)<br>時間：2021/03/10<br>工作地點：竹南<br>面試地點：網路視訊</p><p>一開始一樣是先自我介紹，寫程式的經驗，主管會問一些問題，從主管的表現中可以看出，我不是他們想要的人，沒有特別的專案事蹟，接著考程式，在這個過程中我表現的很差，事先沒有準備好，最後是問問題，其實從過程中就可以知道我不會錄取，但是面試過程卻很友善，但我確實浪費了主管的時間。</p><p>結果：沒有機會二次面試</p><hr><p>第四場面試：台積電（中科)-製程工程師 (HR邀請面試)<br>時間：2021/03/23<br>工作地點：台中<br>面試地點：台中</p><p>進去台積電15A廠要把手機交給大廳櫃台保管，然候在去面試櫃檯，一開始是先做性向測驗，因為我有提供TOEIC成績，所以不用測英文，然後在大廳等了一個小時，人資帶我到面試房間，主管已經坐在裡面了，一開始先自我介紹，主管一邊聽一邊做筆記，會搜集一些關鍵字，接著是我問一個問題，主管問一個問題，最後我沒問題問了，主管也說他沒有了，面試結束。</p><p>結果：未錄取</p><!--more--><hr><p>第五場面試：聯強國際-資料分析工程師 (主動投履歷)<br>時間：2021/03/29<br>工作地點：台北市中山區<br>面試地點：視訊面試</p><p>面試先自我介紹，然後主管會問一些問題，邊問邊做筆記，因為我之前沒學過java，但是這個職位會用到這個程式語言，所以可以看得出來，主管的臉上是有些擔心，接著主管問我有沒有問題，我問了一些問題，比如應屆畢業生大概多久會上手、部門幾人、會不會出差等等，回答：大概兩個月，團隊20幾人，幾乎不會出差。</p><p>二次面試：<br>時間：2021/04/07<br>面試地點：台北市中山區</p><p>視訊面試過兩天，HR 打電話說我通過第一階段面試，所以我要到總部面試，面試一開始先去小房間做邏輯測驗，完後，做專業測驗，專業測驗是考java，我有準備，但是題目還是幾乎沒看過，共測驗一個小時左右，然後HR 帶我到另一個房間讓我先讀總裁寫的書及一張關於月報的介紹，進公司每個月要總結這個月的工作以及下個月的目標，上台報告給部門的同事聽。</p><p>過了一陣子，上次視訊面試我的主管進來，以及副董過一陣子也進來面試，基本上就是聊聊天，但是我是覺得副董好像不是想錄取我，因為我的科系不太符合。</p><p>結果：未錄取</p><hr><p>第六場面試：仁寶電腦-EMC電磁相容工程師(HR邀請面試)<br>時間：2021/03/30<br>工作地點：台北市內湖<br>面試地點：台北市內湖</p><p>一開始先到公司隔壁的SCI大樓，因為我有多益成績，所以我不用考英文，但是要考專業測驗。我沒有準備，所以應該考的不好，接著回到仁寶大樓，面試官有三人，也是先自我介紹，不知道為什麼他們對我當替代役的過程很有興趣，就聊一些趣事，接著部門的副主管開會完，也加入面試，就問我面對過怎樣的挫折，還有問我以前當助教的經驗。</p><p>結果：等待中</p><hr><p>第七次面試：精材科技-研發模組工程師 (HR邀請面試)<br>時間：2021/04/08<br>工作地點：桃園中壢<br>面試地點：桃園中壢</p><p>精材在工業區裡面，交通不便，我自己開車去，但是公司不提供停車位，加上路邊的停車位很少，所以花了一陣子找車位，一開始面試，先做邏輯測驗，及填基本資料，然後HR 面試，自我介紹，問自傳上的問題、大學專題、碩士論文等等，然後換部門主管面試，結果又是問自傳上的問題、大學專題、碩士論文，所以我又一模一樣再講一次，最後就問主管問題。</p><p>結果：等待中</p><hr><p>第八次面試：華碩電腦-EMC工程師 (HR邀請面試)<br>工作地點：台北市北投</p><p>一次面試：<br>時間：2021/04/19<br>面試地點：台北市北投</p><p>一開始先作專業測驗，開一些電子學和EMC的內容，主管會在面試前寄EMC的相關介紹，事先看一下，有些會考，然後在考邏輯測驗，接著人資面試，先自我介紹，然後人資問問題，問了很多的問題，記得面了很久，把履歷上的內容問過一次，最後是主管介紹工作內容，有三個主管，人都蠻好的，可惜工作內容需要用到電子學，這個我以前沒學過，雖然面試前我有自己拿書來看，但是還是對是否能夠勝任這項工作感到不安，但是主管跟我說其實他們都會訓練。</p><p>二次面試：<br>時間：2021/04/26<br>面試地點：台北市北投</p><p>面試官是兩個大主管，一開始也是自我介紹，在過程中基本上都是我在介紹我的碩士論文，論文的內容，以及論文的程式是怎麼寫的，面試官還有翻閱我的碩論，過程滿順利的。</p><p>結果：錄取</p><hr><p>第九次面試：業成-英特盛(GIS-KY)-製程工程師 (主動投履歷)<br>時間：2021/04/29<br>工作地點：台中后里<br>面試地點：視訊面試</p><p>視訊面試網路不穩，一開始測試的時候我聽不到HR的聲音，後來改用手機視訊，面試的順序是先自我介紹，然後講我的碩士論文，然後主管介紹工作內容，然後我問問題，我是主管第一個面試的應屆畢業生，這個工作需要用到英文口說，因為客戶是蘋果，很快面試就結束了，接著換HR面試，HR說業成有提供宿舍，3000元一個月，含水含電，對於我來說，這個福利蠻吸引人的。</p><p>結果：等待中</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;人生第一場面試面：群創光電-光學開發工程師 (HR邀請面試)&lt;br&gt;時間：2021/02/05&lt;br&gt;工作地點：竹南&lt;br&gt;面試地點：竹南&lt;/p&gt;
+&lt;p&gt;一開始先在電腦做性向測驗還有英文，英文的難度比TOEIC還簡單，考聽力閱讀還有文法，然後再面試主管，共有兩個主管，一個年輕，一個比較資深，我先自我介紹，然後講一些碩士論文的內容，再來是主管介紹工作職位，然後是問問題，這是我第一次面試，有點緊張，講話有點文不對題，這個面試結果要到群創的line 帳號查，不會通知。&lt;/p&gt;
+&lt;p&gt;結果：未錄取&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;第二場面試：神基科技-Android工程師 (HR邀請面試)&lt;br&gt;時間：2021/02/08&lt;br&gt;工作地點：台北市南港&lt;br&gt;面試地點：網路視訊&lt;/p&gt;
+&lt;p&gt;一開始跟人資聊關於我的一些想法，大概一個小時，在跟主管面試，跟主管面試時有有4個人在旁聽包括人資，先自我介紹，講一些我以前寫程式的經驗，然後考寫程式，最後主管介紹工作以及公司。&lt;/p&gt;
+&lt;p&gt;結果：未錄取&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="隨筆" scheme="http://yuweikuo.github.io/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+    <category term="工作" scheme="http://yuweikuo.github.io/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux指令grep的用法</title>
+    <link href="http://yuweikuo.github.io/2021/04/15/linux%E6%8C%87%E4%BB%A4grep%E7%9A%84%E7%94%A8%E6%B3%95/"/>
+    <id>http://yuweikuo.github.io/2021/04/15/linux%E6%8C%87%E4%BB%A4grep%E7%9A%84%E7%94%A8%E6%B3%95/</id>
+    <published>2021-04-15T09:47:02.000Z</published>
+    <updated>2021-05-29T04:57:48.733Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">"*.dat"</span> <br></code></pre></td></tr></tbody></table></figure><p>. 是指在這個資料夾 f -&gt; file<br><br></p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -i <span class="hljs-string">"123"</span> 123.dat<br></code></pre></td></tr></tbody></table></figure><p>在123.dat 找123<br><br></p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -n -i <span class="hljs-string">"123"</span> 123.dat<br></code></pre></td></tr></tbody></table></figure><p>在123.dat 找123並顯示行數</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">"123.dat"</span> -<span class="hljs-built_in">exec</span> grep -i -n <span class="hljs-string">"123"</span> {} +<br></code></pre></td></tr></tbody></table></figure><p>找到123.dat並在123.dat裡找123<br><br></p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">"123.dat"</span> -<span class="hljs-built_in">exec</span> grep -i -n <span class="hljs-string">"123"</span> {} + | tee 1234.dat<br></code></pre></td></tr></tbody></table></figure><p>找到123.dat並在123.dat裡找123, 然後把結果印在1234.dat</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;co</summary>
+      
+    
+    
+    
+    
+    <category term="Bash" scheme="http://yuweikuo.github.io/tags/Bash/"/>
+    
+    <category term="Linux" scheme="http://yuweikuo.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git 常見錯誤 rejected</title>
+    <link href="http://yuweikuo.github.io/2021/04/09/git-%E5%B8%B8%E8%A6%8B%E9%8C%AF%E8%AA%A4-rejected/"/>
+    <id>http://yuweikuo.github.io/2021/04/09/git-%E5%B8%B8%E8%A6%8B%E9%8C%AF%E8%AA%A4-rejected/</id>
+    <published>2021-04-09T09:27:06.000Z</published>
+    <updated>2021-04-09T09:31:10.308Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git push -u origin master<br><br>! [rejected]        master -&gt; master (fetch first)<br>error: failed to push some refs to <span class="hljs-string">'https://github.com/XXX/XXX.git'</span><br>hint: Updates were rejected because the remote contains work that you <span class="hljs-keyword">do</span><br>hint: not have locally. This is usually caused by another repository pushing<br>hint: to the same ref. You may want to first integrate the remote changes<br>hint: (e.g., <span class="hljs-string">'git pull ...'</span>) before pushing again.<br>hint: See the <span class="hljs-string">'Note about fast-forwards'</span> <span class="hljs-keyword">in</span> <span class="hljs-string">'git push --help'</span> <span class="hljs-keyword">for</span> details.<br></code></pre></td></tr></tbody></table></figure><br>解決方法<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git checkout master<br></code></pre></td></tr></tbody></table></figure>檢查狀態，應該是有更新<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git pull<br></code></pre></td></tr></tbody></table></figure>pull更新的檔案<figure class="highlight ruby"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs ruby"><span class="hljs-meta">&gt;&gt;</span> git push<br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+      
+    
+    
+    
+    
+    <category term="Github" scheme="http://yuweikuo.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 多線程multiple thread</title>
+    <link href="http://yuweikuo.github.io/2021/04/09/Java-%E5%A4%9A%E7%B7%9A%E7%A8%8Bmultiple-thread/"/>
+    <id>http://yuweikuo.github.io/2021/04/09/Java-%E5%A4%9A%E7%B7%9A%E7%A8%8Bmultiple-thread/</id>
+    <published>2021-04-09T09:07:13.000Z</published>
+    <updated>2021-04-09T10:53:57.924Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">MPthread</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Thread</span> </span>{<br>String name;<br><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">MPthread</span><span class="hljs-params">(String name)</span></span>{<br><span class="hljs-keyword">this</span>.name=name;<br>}<br><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">run</span><span class="hljs-params">()</span> </span>{<br>System.out.println(<span class="hljs-keyword">this</span>.name);<br>}<br>}<br><br><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">MPI</span></span>{<br><span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] argv)</span></span>{<br><span class="hljs-keyword">int</span> np;<br><span class="hljs-keyword">int</span> i;<br>np = Integer.parseInt(argv[<span class="hljs-number">0</span>]);<br>MPthread [] Ths;<br>Ths = <span class="hljs-keyword">new</span> MPthread[np];<br><span class="hljs-keyword">for</span>(i=<span class="hljs-number">0</span>; i&lt;np; i++){<br>Ths[i] = <span class="hljs-keyword">new</span> MPthread(<span class="hljs-string">"Thread name: "</span>+i);<br>Ths[i].start();<br>}<br><span class="hljs-keyword">try</span>{<br><span class="hljs-keyword">for</span>(i=<span class="hljs-number">0</span>; i&lt;np; i++) Ths[i].join();<br>}<span class="hljs-keyword">catch</span>(InterruptedException e){<br>System.out.println(<span class="hljs-string">"Suspend"</span>);<br>}<br>System.out.println(<span class="hljs-string">"Done!"</span>);<br>}<br>}<br></code></pre></td></tr></tbody></table></figure><p>結果為</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; java MPI 8<br><br>Thread name: 2<br>Thread name: 1<br>Thread name: 3<br>Thread name: 5<br>Thread name: 4<br>Thread name: 0<br>Thread name: 6<br>Thread name: 7<br>Done!<br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+      
+    
+    
+    
+    
+    <category term="Java" scheme="http://yuweikuo.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前置運算與後置運算</title>
+    <link href="http://yuweikuo.github.io/2021/04/02/%E5%89%8D%E7%BD%AE%E9%81%8B%E7%AE%97%E8%88%87%E5%BE%8C%E7%BD%AE%E9%81%8B%E7%AE%97/"/>
+    <id>http://yuweikuo.github.io/2021/04/02/%E5%89%8D%E7%BD%AE%E9%81%8B%E7%AE%97%E8%88%87%E5%BE%8C%E7%BD%AE%E9%81%8B%E7%AE%97/</id>
+    <published>2021-04-02T03:54:38.000Z</published>
+    <updated>2021-04-09T10:53:21.930Z</updated>
+    
+    <content type="html"><![CDATA[<p>前置a++是先使用a再加1，++a是先加1再使用a</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>{<br><span class="hljs-keyword">int</span> a=<span class="hljs-number">2</span>, b=<span class="hljs-number">2</span>;<br><span class="hljs-keyword">int</span> aa=<span class="hljs-number">0</span>, bb=<span class="hljs-number">0</span>;<br>aa=(a++);<br>aa=aa+(a++);<br>bb=(++b);<br>bb=bb+(b++);<br><span class="hljs-built_in">printf</span>(<span class="hljs-string">"aa=%d bb=%d\n"</span>,aa,bb);<br>}<br></code></pre></td></tr></tbody></table></figure><p>結果為</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c">aa=<span class="hljs-number">5</span> bb=<span class="hljs-number">6</span><br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;前置a++是先使用a再加1，++a是先加1再使用a&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span </summary>
+      
+    
+    
+    
+    
+    <category term="C" scheme="http://yuweikuo.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javac在mac執行出錯</title>
+    <link href="http://yuweikuo.github.io/2021/04/02/javac-%E5%9F%B7%E8%A1%8C%E5%87%BA%E9%8C%AF/"/>
+    <id>http://yuweikuo.github.io/2021/04/02/javac-%E5%9F%B7%E8%A1%8C%E5%87%BA%E9%8C%AF/</id>
+    <published>2021-04-02T03:04:47.000Z</published>
+    <updated>2021-04-09T11:31:52.816Z</updated>
+    
+    <content type="html"><![CDATA[<p>執行java是正常</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; java -version<br><br>java version <span class="hljs-string">"16"</span> 2021-03-16<br>Java(TM) SE Runtime Environment (build 16+36-2231)<br>Java HotSpot(TM) 64-Bit Server VM (build 16+36-2231, mixed mode, sharing)<br></code></pre></td></tr></tbody></table></figure><p>但是執行javac時顯示</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; javac -version<br><br>The operation couldn’t be completed. Unable to locate a Java Runtime that supports javac.<br>Please visit http://www.java.com <span class="hljs-keyword">for</span> information on installing Java.<br></code></pre></td></tr></tbody></table></figure><p>原因是只安裝了jre沒裝jdk，安裝jdk後</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; javac -version<br><br>javac 16<br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;執行java是正常&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="Java" scheme="http://yuweikuo.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github 的基本用法</title>
+    <link href="http://yuweikuo.github.io/2021/03/31/github-%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/"/>
+    <id>http://yuweikuo.github.io/2021/03/31/github-%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/</id>
+    <published>2021-03-31T02:46:36.000Z</published>
+    <updated>2021-04-12T03:22:54.446Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="上傳到github的新的repository"><a href="#上傳到github的新的repository" class="headerlink" title="上傳到github的新的repository"></a>上傳到github的新的repository</h3><p>確認目前狀態</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git status <br></code></pre></td></tr></tbody></table></figure><p>再來initialize一個repository</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git init<br></code></pre></td></tr></tbody></table></figure><p>輸入username和email</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git config --global user.name <span class="hljs-string">"William Kuo"</span><br>&gt;&gt; git config --global user.email <span class="hljs-string">"XXX@gmail.com"</span><br></code></pre></td></tr></tbody></table></figure><p>新增檔案</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git add . <span class="hljs-comment">#新增所有檔案</span><br>&gt;&gt; git add 檔案名 <span class="hljs-comment">#新增單一檔案</span><br></code></pre></td></tr></tbody></table></figure><span id="more"></span>&gt;<p>寫訊息</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git commit -m <span class="hljs-string">"First init commit"</span><br></code></pre></td></tr></tbody></table></figure><p>上傳</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br><span class="hljs-comment">#如果打錯，重打</span><br>&gt;&gt; git remote rm origin<br>&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br></code></pre></td></tr></tbody></table></figure><p>確認狀態(verify)</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote -v<br></code></pre></td></tr></tbody></table></figure><p>確認在哪個branch</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git branch<br></code></pre></td></tr></tbody></table></figure><p>如果要push到master branch</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git push origin master<br></code></pre></td></tr></tbody></table></figure><br><h3 id="從github下載"><a href="#從github下載" class="headerlink" title="從github下載"></a>從github下載</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git <span class="hljs-built_in">clone</span> http://github.com/YuWeiKuo/XXX.io<br></code></pre></td></tr></tbody></table></figure><br><h3 id="新增檔案到舊的repository"><a href="#新增檔案到舊的repository" class="headerlink" title="新增檔案到舊的repository"></a>新增檔案到舊的repository</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git add 新增的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">"新增檔案"</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></tbody></table></figure><br><h3 id="刪除repository的檔案"><a href="#刪除repository的檔案" class="headerlink" title="刪除repository的檔案"></a>刪除repository的檔案</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git rm 要刪除的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">"刪除檔案"</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;上傳到github的新的repository&quot;&gt;&lt;a href=&quot;#上傳到github的新的repository&quot; class=&quot;headerlink&quot; title=&quot;上傳到github的新的repository&quot;&gt;&lt;/a&gt;上傳到github的新的repository&lt;/h3&gt;&lt;p&gt;確認目前狀態&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;&amp;gt;&amp;gt; git status &lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;再來initialize一個repository&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;&amp;gt;&amp;gt; git init&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;輸入username和email&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;&amp;gt;&amp;gt; git config --global user.name &lt;span class=&quot;hljs-string&quot;&gt;&quot;William Kuo&quot;&lt;/span&gt;&lt;br&gt;&amp;gt;&amp;gt; git config --global user.email &lt;span class=&quot;hljs-string&quot;&gt;&quot;XXX@gmail.com&quot;&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;新增檔案&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs bash&quot;&gt;&amp;gt;&amp;gt; git add . &lt;span class=&quot;hljs-comment&quot;&gt;#新增所有檔案&lt;/span&gt;&lt;br&gt;&amp;gt;&amp;gt; git add 檔案名 &lt;span class=&quot;hljs-comment&quot;&gt;#新增單一檔案&lt;/span&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+    <category term="Github" scheme="http://yuweikuo.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bash 文件的迴圈</title>
+    <link href="http://yuweikuo.github.io/2021/03/27/bash-%E6%96%87%E4%BB%B6%E7%9A%84%E8%BF%B4%E5%9C%88/"/>
+    <id>http://yuweikuo.github.io/2021/03/27/bash-%E6%96%87%E4%BB%B6%E7%9A%84%E8%BF%B4%E5%9C%88/</id>
+    <published>2021-03-27T03:59:59.000Z</published>
+    <updated>2021-03-27T04:42:56.487Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="while-迴圈，當條件不成立時停止"><a href="#while-迴圈，當條件不成立時停止" class="headerlink" title="while 迴圈，當條件不成立時停止"></a>while 迴圈，當條件不成立時停止</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br><span class="hljs-keyword">while</span> [ 條件 ]<br><span class="hljs-keyword">do</span><br><span class="hljs-built_in">echo</span> <span class="hljs-string">"<span class="hljs-variable">$i</span>"</span><br>i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></tbody></table></figure><p>i=$((i+1))是i=i+1</p><h3 id="until-迴圈，當條件成立時停止"><a href="#until-迴圈，當條件成立時停止" class="headerlink" title="until 迴圈，當條件成立時停止"></a>until 迴圈，當條件成立時停止</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br>until [ 條件 ]<br><span class="hljs-keyword">do</span><br><span class="hljs-built_in">echo</span> <span class="hljs-string">"<span class="hljs-variable">$i</span>"</span><br>i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></tbody></table></figure><br><h3 id="for-迴圈"><a href="#for-迴圈" class="headerlink" title="for 迴圈"></a>for 迴圈</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> {0..100..1}<br><span class="hljs-comment">#可以寫成</span><br><span class="hljs-comment">#for((i=0; i&lt;101; i++))</span><br><span class="hljs-keyword">do</span><br>ehco <span class="hljs-variable">$i</span><br><span class="hljs-keyword">done</span><br></code></pre></td></tr></tbody></table></figure><p>0到100，間隔1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;while-迴圈，當條件不成立時停止&quot;&gt;&lt;a href=&quot;#while-迴圈，當條件不成立時停止&quot; class=&quot;headerlink&quot; title=&quot;while 迴圈，當條件不成立時停止&quot;&gt;&lt;/a&gt;while 迴圈，當條件不成立時停止&lt;/h3&gt;&lt;figure c</summary>
+      
+    
+    
+    
+    
+    <category term="Bash" scheme="http://yuweikuo.github.io/tags/Bash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C 語言 pointer 指針在自定義函數的用法</title>
+    <link href="http://yuweikuo.github.io/2021/03/26/C-%E8%AA%9E%E8%A8%80-pointer-%E6%8C%87%E9%87%9D%E5%9C%A8%E8%87%AA%E5%AE%9A%E7%BE%A9%E5%87%BD%E6%95%B8%E7%9A%84%E7%94%A8%E6%B3%95/"/>
+    <id>http://yuweikuo.github.io/2021/03/26/C-%E8%AA%9E%E8%A8%80-pointer-%E6%8C%87%E9%87%9D%E5%9C%A8%E8%87%AA%E5%AE%9A%E7%BE%A9%E5%87%BD%E6%95%B8%E7%9A%84%E7%94%A8%E6%B3%95/</id>
+    <published>2021-03-26T09:06:40.000Z</published>
+    <updated>2021-04-09T10:51:34.361Z</updated>
+    
+    <content type="html"><![CDATA[<p>定義一個函數mymax</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">mymax</span><span class="hljs-params">(<span class="hljs-keyword">int</span> *x, <span class="hljs-keyword">int</span> *y)</span></span>{<br>...<br>...<br><span class="hljs-keyword">return</span> z;<br>}<br></code></pre></td></tr></tbody></table></figure><p>x、y還有z都是pointer，且可以為動態陣列malloc</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;定義一個函數mymax&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2</summary>
+      
+    
+    
+    
+    
+    <category term="C" scheme="http://yuweikuo.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C 語言 pointer 指標用法</title>
+    <link href="http://yuweikuo.github.io/2021/03/26/C%E8%AA%9E%E8%A8%80-pointer-%E6%8C%87%E6%A8%99%E7%94%A8%E6%B3%95/"/>
+    <id>http://yuweikuo.github.io/2021/03/26/C%E8%AA%9E%E8%A8%80-pointer-%E6%8C%87%E6%A8%99%E7%94%A8%E6%B3%95/</id>
+    <published>2021-03-26T08:56:34.000Z</published>
+    <updated>2021-04-09T10:52:38.556Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">int b=2;<br>int *prt;<br>prt = &amp;b;<br></code></pre></td></tr></tbody></table></figure><p>*prt指向b，可以簡化為</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-keyword">int</span> b=<span class="hljs-number">2</span>;<br><span class="hljs-keyword">int</span> *prt = &amp;b;<br></code></pre></td></tr></tbody></table></figure><p>另一個指針用法</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-keyword">int</span> a[]={<span class="hljs-number">1</span>,<span class="hljs-number">2</span>,<span class="hljs-number">3</span>,<span class="hljs-number">4</span>};<br><span class="hljs-keyword">int</span> *prt = a;<br></code></pre></td></tr></tbody></table></figure><p>*prt指向a[0]，也就是*prt+1=a[0]+1=2，*(prt+1)=a[1]=2，如果陣列a也是指標</p><figure class="highlight c"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-keyword">int</span> *a[]={<span class="hljs-number">1</span>,<span class="hljs-number">2</span>,<span class="hljs-number">3</span>,<span class="hljs-number">4</span>};<br><span class="hljs-keyword">int</span> *prt=*a;<br></code></pre></td></tr></tbody></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+      
+    
+    
+    
+    
+    <category term="C" scheme="http://yuweikuo.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在bash文件中寫comment</title>
+    <link href="http://yuweikuo.github.io/2021/03/21/%E5%9C%A8bash%E6%96%87%E4%BB%B6%E4%B8%AD%E5%AF%ABcomment/"/>
+    <id>http://yuweikuo.github.io/2021/03/21/%E5%9C%A8bash%E6%96%87%E4%BB%B6%E4%B8%AD%E5%AF%ABcomment/</id>
+    <published>2021-03-21T04:22:35.000Z</published>
+    <updated>2021-03-21T04:23:55.642Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-comment"># comment</span><br></code></pre></td></tr></tbody></table></figure><p>加上#可以寫單行comment</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash">: <span class="hljs-string">' </span><br><span class="hljs-string"></span><br><span class="hljs-string">comment</span><br><span class="hljs-string"></span><br><span class="hljs-string">comment</span><br><span class="hljs-string"></span><br><span class="hljs-string">comment '</span><br><br></code></pre></td></tr></tbody></table></figure><p>可以寫多行comment</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;co</summary>
+      
+    
+    
+    
+    
+    <category term="Bash" scheme="http://yuweikuo.github.io/tags/Bash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bash文件if else 用法</title>
+    <link href="http://yuweikuo.github.io/2021/03/21/bash%E6%96%87%E4%BB%B6if-else-%E7%94%A8%E6%B3%95/"/>
+    <id>http://yuweikuo.github.io/2021/03/21/bash%E6%96%87%E4%BB%B6if-else-%E7%94%A8%E6%B3%95/</id>
+    <published>2021-03-21T04:13:39.000Z</published>
+    <updated>2021-03-21T05:17:37.625Z</updated>
+    
+    <content type="html"><![CDATA[<p>在bash文件中if else用法</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>number=10<br><br><span class="hljs-keyword">if</span> [<span class="hljs-variable">$number</span> -eq 10]<br><span class="hljs-keyword">then</span> <br><span class="hljs-built_in">echo</span> <span class="hljs-string">"yes"</span><br><span class="hljs-keyword">else</span> <br><span class="hljs-built_in">echo</span> <span class="hljs-string">"no"</span><br><span class="hljs-keyword">fi</span><br></code></pre></td></tr></tbody></table></figure><p>上面-eq指的是等於如果是不等於是-ne，-gt是大於，如果大於要用“&gt;”,</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span>((<span class="hljs-variable">$number</span> &gt; 9))<br></code></pre></td></tr></tbody></table></figure><p>如果要加上else if 的條件</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">elif</span>((<span class="hljs-variable">$number</span> &gt; 8 ))<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></tbody></table></figure><p>兩個條件</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [ <span class="hljs-string">"<span class="hljs-variable">$number</span>"</span> -gt 10 ] &amp;&amp; [ <span class="hljs-string">"<span class="hljs-variable">$number</span>"</span> -lt 40]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></tbody></table></figure><p>或者可以寫成</p><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [[ <span class="hljs-string">"<span class="hljs-variable">$number</span>"</span> -gt 10  &amp;&amp; <span class="hljs-string">"<span class="hljs-variable">$number</span>"</span> -lt 40]]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></tbody></table></figure><p>把&amp;&amp;改成-o或||，就變成or</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在bash文件中if else用法&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class</summary>
+      
+    
+    
+    
+    
+    <category term="Bash" scheme="http://yuweikuo.github.io/tags/Bash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yuweikuo.github.io/2021/03/21/hello-world/"/>
+    <id>http://yuweikuo.github.io/2021/03/21/hello-world/</id>
+    <published>2021-03-21T03:48:30.645Z</published>
+    <updated>2021-03-21T03:48:30.645Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo" scheme="http://yuweikuo.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
