@@ -6,7 +6,7 @@
   <link href="http://yuweikuo.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuweikuo.github.io/"/>
-  <updated>2021-09-02T13:33:08.885Z</updated>
+  <updated>2021-09-02T14:22:08.938Z</updated>
   <id>http://yuweikuo.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/"/>
     <id>http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/</id>
     <published>2021-09-02T11:26:54.000Z</published>
-    <updated>2021-09-02T13:33:08.885Z</updated>
+    <updated>2021-09-02T14:22:08.938Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="我的第一篇paper">我的第一篇paper</h2><h3 id="paper題目">Paper題目：</h3><p>Tetrahedral structure of supercooled water at ambient pressure and its influence on dynamic relaxation: Comparative study of water models</p><h3 id="paper連接"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#!">Paper連接</a></h3><h3 id="期刊">期刊：</h3><p>Journal of Molecular Liquids</p><h3 id="作者">作者：</h3><p>Yu-Wei Kuo, Ping-Han Tang, Hao Wang, Ten-Ming Wu, Shinji Saito</p><h2 id="介紹">介紹</h2><p>這篇paper最主要的研究是過冷水，過冷水是水在溫度低於攝氏0度，但還沒結冰的時候，水的物理性質，此時水可以被分為高密度水跟低密度水，高密度水跟低密度水之間有一條分界線，稱為Widom Line，Widom Line是在水溫幾度時可以被發現？這篇paper提出了一些方法i，並且採用了兩種模型SPC/E跟TIP4P/2005，比較了兩個模型的結果。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="我的第一篇paper">我的第一篇paper</h2><h3 id="paper題目">Paper題目：</h3><p>Tetrahedral structure of supercooled water at ambient pressure and its influence on dynamic relaxation: Comparative study of water models</p><h3 id="paper連接"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#!">Paper連接</a></h3><h3 id="期刊">期刊：</h3><p>Journal of Molecular Liquids</p><h3 id="作者">作者：</h3><p>Yu-Wei Kuo, Ping-Han Tang, Hao Wang, Ten-Ming Wu, Shinji Saito</p><h3 id="paper公開日期">Paper公開日期：</h3><p>2021.08.25</p><h2 id="介紹">介紹</h2><p>這篇paper最主要的研究是過冷水，過冷水是水在溫度低於攝氏0度，但還沒結冰的時候，水的物理性質，此時水可以被分為高密度水跟低密度水，高密度水跟低密度水之間有一條分界線，稱為Widom Line，Widom Line是在水溫幾度時可以被發現？這篇paper提出了一些方法i，並且採用了兩種模型SPC/E跟TIP4P/2005，比較了兩個模型的結果。</p>]]></content>
     
     
       
