@@ -132,9 +132,9 @@
     
     
     
-    <category term="EMC" scheme="http://yuweikuo.github.io/tags/EMC/"/>
-    
     <category term="PCB" scheme="http://yuweikuo.github.io/tags/PCB/"/>
+    
+    <category term="EMC" scheme="http://yuweikuo.github.io/tags/EMC/"/>
     
     <category term="電磁學" scheme="http://yuweikuo.github.io/tags/%E9%9B%BB%E7%A3%81%E5%AD%B8/"/>
     
@@ -160,9 +160,9 @@
     
     
     
-    <category term="PCB" scheme="http://yuweikuo.github.io/tags/PCB/"/>
-    
     <category term="orCAD" scheme="http://yuweikuo.github.io/tags/orCAD/"/>
+    
+    <category term="PCB" scheme="http://yuweikuo.github.io/tags/PCB/"/>
     
   </entry>
   
