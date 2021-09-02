@@ -193,13 +193,13 @@
       <div class="col-xl-6"><article class="article">
   <div class="wrap">
     <section class="head">
-  <img   class="lazyload" data-original="/images/theme/danshui/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
+  <img   class="lazyload" data-original="/images/theme/Okinawa/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
   <div class="head-mask">
     <h1 class="head-title">bash文件if else 用法</h1>
     <div class="head-info">
       <span class="post-info-item"><i class="iconfont iconcalendar"></i>March 21, 2021</span>
       
-      <span class="post-info-item"><i class="iconfont iconfont-size"></i>374</span>
+      <span class="post-info-item"><i class="iconfont iconfont-size"></i>372</span>
     </div>
   </div>
 </section>
@@ -207,17 +207,9 @@
       <section class="content">
         <p>在bash文件中if else用法</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>number=10<br><br><span class="hljs-keyword">if</span> [<span class="hljs-variable">$number</span> -eq 10]<br><span class="hljs-keyword">then</span> <br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;yes&quot;</span><br><span class="hljs-keyword">else</span> <br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;no&quot;</span><br><span class="hljs-keyword">fi</span><br></code></pre></td></tr></table></figure>
-
 <p>上面-eq指的是等於如果是不等於是-ne，-gt是大於，如果大於要用“&gt;”,</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span>((<span class="hljs-variable">$number</span> &gt; 9))<br></code></pre></td></tr></table></figure>
-
-<p>如果要加上else if 的條件</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">elif</span>((<span class="hljs-variable">$number</span> &gt; 8 ))<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure>
-<p>兩個條件</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -gt 10 ] &amp;&amp; [ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -lt 40]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure>
-<p>或者可以寫成</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [[ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -gt 10  &amp;&amp; <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -lt 40]]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure>
-<p>把&amp;&amp;改成-o或||，就變成or</p>
+<p>如果要加上else if 的條件 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">elif</span>((<span class="hljs-variable">$number</span> &gt; 8 ))<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure> 兩個條件 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -gt 10 ] &amp;&amp; [ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -lt 40]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure> 或者可以寫成 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-keyword">if</span> [[ <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -gt 10  &amp;&amp; <span class="hljs-string">&quot;<span class="hljs-variable">$number</span>&quot;</span> -lt 40]]<br><span class="hljs-keyword">then</span><br></code></pre></td></tr></table></figure> 把&amp;&amp;改成-o或||，就變成or</p>
 
       </section>
       <section class="extra">
@@ -300,21 +292,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>

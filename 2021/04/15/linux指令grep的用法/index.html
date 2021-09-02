@@ -198,22 +198,16 @@
     <div class="head-info">
       <span class="post-info-item"><i class="iconfont iconcalendar"></i>April 15, 2021</span>
       
-      <span class="post-info-item"><i class="iconfont iconfont-size"></i>382</span>
+      <span class="post-info-item"><i class="iconfont iconfont-size"></i>385</span>
     </div>
   </div>
 </section>
     <section class="main">
       <section class="content">
         <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">&quot;*.dat&quot;</span> <br></code></pre></td></tr></table></figure>
-<p>. 是指在這個資料夾 f -&gt; file<br><br></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -i <span class="hljs-string">&quot;123&quot;</span> 123.dat<br></code></pre></td></tr></table></figure>
-<p>在123.dat 找123<br><br></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -n -i <span class="hljs-string">&quot;123&quot;</span> 123.dat<br></code></pre></td></tr></table></figure>
-<p>在123.dat 找123並顯示行數</p>
+<p>. 是指在這個資料夾 f -&gt; file <br> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -i <span class="hljs-string">&quot;123&quot;</span> 123.dat<br></code></pre></td></tr></table></figure> 在123.dat 找123 <br> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; grep -n -i <span class="hljs-string">&quot;123&quot;</span> 123.dat<br></code></pre></td></tr></table></figure> 在123.dat 找123並顯示行數</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">&quot;123.dat&quot;</span> -<span class="hljs-built_in">exec</span> grep -i -n <span class="hljs-string">&quot;123&quot;</span> &#123;&#125; +<br></code></pre></td></tr></table></figure>
-<p>找到123.dat並在123.dat裡找123<br><br></p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">&quot;123.dat&quot;</span> -<span class="hljs-built_in">exec</span> grep -i -n <span class="hljs-string">&quot;123&quot;</span> &#123;&#125; + | tee 1234.dat<br></code></pre></td></tr></table></figure>
-<p>找到123.dat並在123.dat裡找123, 然後把結果印在1234.dat</p>
+<p>找到123.dat並在123.dat裡找123 <br> <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; find . -<span class="hljs-built_in">type</span> f -name <span class="hljs-string">&quot;123.dat&quot;</span> -<span class="hljs-built_in">exec</span> grep -i -n <span class="hljs-string">&quot;123&quot;</span> &#123;&#125; + | tee 1234.dat<br></code></pre></td></tr></table></figure> 找到123.dat並在123.dat裡找123, 然後把結果印在1234.dat</p>
 
       </section>
       <section class="extra">
@@ -296,21 +290,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>

@@ -192,7 +192,7 @@
       <div class="col-xl-6"><article class="article">
   <div class="wrap">
     <section class="head">
-  <img   class="lazyload" data-original="/images/theme/Okinawa/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
+  <img   class="lazyload" data-original="/images/theme/Unsplash/post-image5.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
   <div class="head-mask">
     <h1 class="head-title">Java 多線程multiple thread</h1>
     <div class="head-info">
@@ -205,8 +205,7 @@
     <section class="main">
       <section class="content">
         <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><code class="hljs java"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">MPthread</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Thread</span> </span>&#123;<br>	String name;<br>	<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">MPthread</span><span class="hljs-params">(String name)</span></span>&#123;<br>		<span class="hljs-keyword">this</span>.name=name;<br>	&#125;<br>	<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">run</span><span class="hljs-params">()</span> </span>&#123;<br>		System.out.println(<span class="hljs-keyword">this</span>.name);<br>	&#125;<br>&#125;<br><br><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">MPI</span></span>&#123;<br>	<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] argv)</span></span>&#123;<br>		<span class="hljs-keyword">int</span> np;<br>		<span class="hljs-keyword">int</span> i;<br>		np = Integer.parseInt(argv[<span class="hljs-number">0</span>]);<br>		MPthread [] Ths;<br>		Ths = <span class="hljs-keyword">new</span> MPthread[np];<br>		<span class="hljs-keyword">for</span>(i=<span class="hljs-number">0</span>; i&lt;np; i++)&#123;<br>			Ths[i] = <span class="hljs-keyword">new</span> MPthread(<span class="hljs-string">&quot;Thread name: &quot;</span>+i);<br>			Ths[i].start();<br>		&#125;<br>		<span class="hljs-keyword">try</span>&#123;<br>			<span class="hljs-keyword">for</span>(i=<span class="hljs-number">0</span>; i&lt;np; i++) Ths[i].join();<br>		&#125;<span class="hljs-keyword">catch</span>(InterruptedException e)&#123;<br>			System.out.println(<span class="hljs-string">&quot;Suspend&quot;</span>);<br>		&#125;<br>		System.out.println(<span class="hljs-string">&quot;Done!&quot;</span>);<br>	&#125;<br>&#125;<br></code></pre></td></tr></table></figure>
-<p>結果為</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; java MPI 8<br><br>Thread name: 2<br>Thread name: 1<br>Thread name: 3<br>Thread name: 5<br>Thread name: 4<br>Thread name: 0<br>Thread name: 6<br>Thread name: 7<br>Done!<br></code></pre></td></tr></table></figure>
+<p>結果為 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; java MPI 8<br><br>Thread name: 2<br>Thread name: 1<br>Thread name: 3<br>Thread name: 5<br>Thread name: 4<br>Thread name: 0<br>Thread name: 6<br>Thread name: 7<br>Done!<br></code></pre></td></tr></table></figure></p>
 
       </section>
       <section class="extra">
@@ -289,21 +288,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>

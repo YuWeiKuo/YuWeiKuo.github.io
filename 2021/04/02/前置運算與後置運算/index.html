@@ -16,8 +16,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="google" content="notranslate" />
   
-  <meta name="description" content="前置a++是先使用a再加1，++a是先加1再使用a
-1...">
+  <meta name="description" content="前置a++是先使用a再加1，++a是先加1再使用a 1...">
   <meta name="author" content="William Kuo">
   <link rel="icon" href="/images/icons/favicon-16x16.png" type="image/png" sizes="16x16">
   <link rel="icon" href="/images/icons/favicon-32x32.png" type="image/png" sizes="32x32">
@@ -193,7 +192,7 @@
       <div class="col-xl-6"><article class="article">
   <div class="wrap">
     <section class="head">
-  <img   class="lazyload" data-original="/images/theme/Okinawa/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
+  <img   class="lazyload" data-original="/images/theme/Okinawa/post-image2.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
   <div class="head-mask">
     <h1 class="head-title">前置運算與後置運算</h1>
     <div class="head-info">
@@ -205,10 +204,7 @@
 </section>
     <section class="main">
       <section class="content">
-        <p>前置a++是先使用a再加1，++a是先加1再使用a</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>	<span class="hljs-keyword">int</span> a=<span class="hljs-number">2</span>, b=<span class="hljs-number">2</span>;<br>	<span class="hljs-keyword">int</span> aa=<span class="hljs-number">0</span>, bb=<span class="hljs-number">0</span>;<br>	aa=(a++);<br>	aa=aa+(a++);<br>	bb=(++b);<br>	bb=bb+(b++);<br>	<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;aa=%d bb=%d\n&quot;</span>,aa,bb);<br>&#125;<br></code></pre></td></tr></table></figure>
-<p>結果為</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c">aa=<span class="hljs-number">5</span> bb=<span class="hljs-number">6</span><br></code></pre></td></tr></table></figure>
+        <p>前置a++是先使用a再加1，++a是先加1再使用a <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-function"><span class="hljs-keyword">int</span> <span class="hljs-title">main</span><span class="hljs-params">()</span></span>&#123;<br>	<span class="hljs-keyword">int</span> a=<span class="hljs-number">2</span>, b=<span class="hljs-number">2</span>;<br>	<span class="hljs-keyword">int</span> aa=<span class="hljs-number">0</span>, bb=<span class="hljs-number">0</span>;<br>	aa=(a++);<br>	aa=aa+(a++);<br>	bb=(++b);<br>	bb=bb+(b++);<br>	<span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;aa=%d bb=%d\n&quot;</span>,aa,bb);<br>&#125;<br></code></pre></td></tr></table></figure> 結果為 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs c">aa=<span class="hljs-number">5</span> bb=<span class="hljs-number">6</span><br></code></pre></td></tr></table></figure></p>
 
       </section>
       <section class="extra">
@@ -291,21 +287,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>

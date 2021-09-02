@@ -16,7 +16,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="google" content="notranslate" />
   
-  <meta name="description" content="上傳到github的新的repository確認目前狀...">
+  <meta name="description" content="上傳到github的新的repository
+確認目前...">
   <meta name="author" content="William Kuo">
   <link rel="icon" href="/images/icons/favicon-16x16.png" type="image/png" sizes="16x16">
   <link rel="icon" href="/images/icons/favicon-32x32.png" type="image/png" sizes="32x32">
@@ -192,7 +193,7 @@
       <div class="col-xl-6"><article class="article">
   <div class="wrap">
     <section class="head">
-  <img   class="lazyload" data-original="/images/theme/danshui/post-image2.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
+  <img   class="lazyload" data-original="/images/theme/danshui/post-image.jpg" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="  draggable="false">
   <div class="head-mask">
     <h1 class="head-title">github 的基本用法</h1>
     <div class="head-info">
@@ -204,27 +205,16 @@
 </section>
     <section class="main">
       <section class="content">
-        >
-
-<p>寫訊息</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git commit -m <span class="hljs-string">&quot;First init commit&quot;</span><br></code></pre></td></tr></table></figure>
-<p>上傳</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br><span class="hljs-comment">#如果打錯，重打</span><br>&gt;&gt; git remote rm origin<br>&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br></code></pre></td></tr></table></figure>
-<p>確認狀態(verify)</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote -v<br></code></pre></td></tr></table></figure>
-<p>確認在哪個branch</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git branch<br></code></pre></td></tr></table></figure>
-<p>如果要push到master branch</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git push origin master<br></code></pre></td></tr></table></figure>
-<br>
-
-<h3 id="從github下載"><a href="#從github下載" class="headerlink" title="從github下載"></a>從github下載</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git <span class="hljs-built_in">clone</span> http://github.com/YuWeiKuo/XXX.io<br></code></pre></td></tr></table></figure>
-<br>
-
-<h3 id="新增檔案到舊的repository"><a href="#新增檔案到舊的repository" class="headerlink" title="新增檔案到舊的repository"></a>新增檔案到舊的repository</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git add 新增的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">&quot;新增檔案&quot;</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></table></figure>
-<br>
-
-<h3 id="刪除repository的檔案"><a href="#刪除repository的檔案" class="headerlink" title="刪除repository的檔案"></a>刪除repository的檔案</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git rm 要刪除的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">&quot;刪除檔案&quot;</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></table></figure>
+        &gt;</p>
+<p>寫訊息 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git commit -m <span class="hljs-string">&quot;First init commit&quot;</span><br></code></pre></td></tr></table></figure> 上傳 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br><span class="hljs-comment">#如果打錯，重打</span><br>&gt;&gt; git remote rm origin<br>&gt;&gt; git remote add origin http://github.com/YuWeiKuo/XXX.git<br></code></pre></td></tr></table></figure> 確認狀態(verify) <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git remote -v<br></code></pre></td></tr></table></figure> 確認在哪個branch <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git branch<br></code></pre></td></tr></table></figure> 如果要push到master branch <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git push origin master<br></code></pre></td></tr></table></figure> <br></p>
+<h3 id="從github下載">從github下載</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git <span class="hljs-built_in">clone</span> http://github.com/YuWeiKuo/XXX.io<br></code></pre></td></tr></table></figure>
+<p><br></p>
+<h3 id="新增檔案到舊的repository">新增檔案到舊的repository</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git add 新增的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">&quot;新增檔案&quot;</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></table></figure>
+<p><br></p>
+<h3 id="刪除repository的檔案">刪除repository的檔案</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">&gt;&gt; git rm 要刪除的檔案<br>&gt;&gt; git commit -m <span class="hljs-string">&quot;刪除檔案&quot;</span><br>&gt;&gt; git push -u origin master<br></code></pre></td></tr></table></figure>
       </section>
       <section class="extra">
         
@@ -306,21 +296,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>

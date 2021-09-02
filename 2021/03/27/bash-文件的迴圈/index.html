@@ -16,7 +16,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="google" content="notranslate" />
   
-  <meta name="description" content="while 迴圈，當條件不成立時停止12345678#...">
+  <meta name="description" content="while 迴圈，當條件不成立時停止
+12345678...">
   <meta name="author" content="William Kuo">
   <link rel="icon" href="/images/icons/favicon-16x16.png" type="image/png" sizes="16x16">
   <link rel="icon" href="/images/icons/favicon-32x32.png" type="image/png" sizes="32x32">
@@ -198,18 +199,20 @@
     <div class="head-info">
       <span class="post-info-item"><i class="iconfont iconcalendar"></i>March 27, 2021</span>
       
-      <span class="post-info-item"><i class="iconfont iconfont-size"></i>282</span>
+      <span class="post-info-item"><i class="iconfont iconfont-size"></i>284</span>
     </div>
   </div>
 </section>
     <section class="main">
       <section class="content">
-        <h3 id="while-迴圈，當條件不成立時停止"><a href="#while-迴圈，當條件不成立時停止" class="headerlink" title="while 迴圈，當條件不成立時停止"></a>while 迴圈，當條件不成立時停止</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br><span class="hljs-keyword">while</span> [ 條件 ]<br><span class="hljs-keyword">do</span><br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;<span class="hljs-variable">$i</span>&quot;</span><br>	i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
+        <h3 id="while-迴圈當條件不成立時停止">while 迴圈，當條件不成立時停止</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br><span class="hljs-keyword">while</span> [ 條件 ]<br><span class="hljs-keyword">do</span><br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;<span class="hljs-variable">$i</span>&quot;</span><br>	i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
 <p>i=$((i+1))是i=i+1</p>
-<h3 id="until-迴圈，當條件成立時停止"><a href="#until-迴圈，當條件成立時停止" class="headerlink" title="until 迴圈，當條件成立時停止"></a>until 迴圈，當條件成立時停止</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br>until [ 條件 ]<br><span class="hljs-keyword">do</span><br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;<span class="hljs-variable">$i</span>&quot;</span><br>	i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
-<br>
-
-<h3 id="for-迴圈"><a href="#for-迴圈" class="headerlink" title="for 迴圈"></a>for 迴圈</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> &#123;0..100..1&#125;<br><span class="hljs-comment">#可以寫成</span><br><span class="hljs-comment">#for((i=0; i&lt;101; i++))</span><br><span class="hljs-keyword">do</span><br>	ehco <span class="hljs-variable">$i</span><br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
+<h3 id="until-迴圈當條件成立時停止">until 迴圈，當條件成立時停止</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br>i=1<br>until [ 條件 ]<br><span class="hljs-keyword">do</span><br>	<span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;<span class="hljs-variable">$i</span>&quot;</span><br>	i=$((i+<span class="hljs-number">1</span>))<br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
+<p><br></p>
+<h3 id="for-迴圈">for 迴圈</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs bash"><span class="hljs-meta">#! /bin/bash</span><br><br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> &#123;0..100..1&#125;<br><span class="hljs-comment">#可以寫成</span><br><span class="hljs-comment">#for((i=0; i&lt;101; i++))</span><br><span class="hljs-keyword">do</span><br>	ehco <span class="hljs-variable">$i</span><br><span class="hljs-keyword">done</span><br></code></pre></td></tr></table></figure>
 <p>0到100，間隔1</p>
 
       </section>
@@ -244,7 +247,7 @@
           
   <aside class="toc-wrap">
     <h3 class="toc-title">文章目錄：</h3>
-    <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#while-%E8%BF%B4%E5%9C%88%EF%BC%8C%E7%95%B6%E6%A2%9D%E4%BB%B6%E4%B8%8D%E6%88%90%E7%AB%8B%E6%99%82%E5%81%9C%E6%AD%A2"><span class="toc-text">while 迴圈，當條件不成立時停止</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#until-%E8%BF%B4%E5%9C%88%EF%BC%8C%E7%95%B6%E6%A2%9D%E4%BB%B6%E6%88%90%E7%AB%8B%E6%99%82%E5%81%9C%E6%AD%A2"><span class="toc-text">until 迴圈，當條件成立時停止</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#for-%E8%BF%B4%E5%9C%88"><span class="toc-text">for 迴圈</span></a></li></ol>
+    <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#while-%E8%BF%B4%E5%9C%88%E7%95%B6%E6%A2%9D%E4%BB%B6%E4%B8%8D%E6%88%90%E7%AB%8B%E6%99%82%E5%81%9C%E6%AD%A2"><span class="toc-text">while 迴圈，當條件不成立時停止</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#until-%E8%BF%B4%E5%9C%88%E7%95%B6%E6%A2%9D%E4%BB%B6%E6%88%90%E7%AB%8B%E6%99%82%E5%81%9C%E6%AD%A2"><span class="toc-text">until 迴圈，當條件成立時停止</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#for-%E8%BF%B4%E5%9C%88"><span class="toc-text">for 迴圈</span></a></li></ol>
   </aside>
 
 
@@ -293,21 +296,6 @@
 
   
   
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
-            processEscapes: true
-        }
-    });
-    MathJax.Hub.Queue(function() {
-        var all = MathJax.Hub.getAllJax();
-        for (var i = 0; i < all.length; ++i)
-            all[i].SourceElement().parentNode.className += ' has-jax';
-    });
-</script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 
 <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
