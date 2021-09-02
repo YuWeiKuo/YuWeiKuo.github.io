@@ -1989,8 +1989,12 @@ body input {
 }
 .galleries {
   min-height: calc(100vh - 350px);
-  max-width: 100%;
-  padding: 0 10px;
+}
+@media (max-width: 768px) {
+  .galleries {
+    max-width: 100%;
+    padding: 0 10px;
+  }
 }
 .galleries .wrap {
   display: grid;
