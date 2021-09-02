@@ -6,7 +6,7 @@
   <link href="http://yuweikuo.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuweikuo.github.io/"/>
-  <updated>2021-09-02T12:38:12.225Z</updated>
+  <updated>2021-09-02T12:42:33.867Z</updated>
   <id>http://yuweikuo.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/"/>
     <id>http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/</id>
     <published>2021-09-02T11:26:54.000Z</published>
-    <updated>2021-09-02T12:38:12.225Z</updated>
+    <updated>2021-09-02T12:42:33.867Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="我的第一篇paper">我的第一篇paper</h2><p>Paper題目：Tetrahedral structure of supercooled water at ambient pressure and its influence on dynamic relaxation: Comparative study of water models</p><p>期刊：Journal of Molecular Liquids</p><p>作者：Yu-Wei Kuo, Ping-Han Tang, Hao Wang, Ten-Ming Wu, Shinji Saito</p><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#!">Paper連接</a></p><p>這篇paper最主要的研究是過冷水，過冷水是水在溫度低於 $ 0^oC $，但還沒結冰的時候，水的物理性質，此時水可以被分為高密度水跟低密度水，高密度水跟低密度水之間有一條分界線，稱為Widom Line，Widom Line是在水溫幾度時可以被發現？這篇paper提出了一些方法。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="我的第一篇paper">我的第一篇paper</h2><p>Paper題目：Tetrahedral structure of supercooled water at ambient pressure and its influence on dynamic relaxation: Comparative study of water models</p><p>期刊：Journal of Molecular Liquids</p><p>作者：Yu-Wei Kuo, Ping-Han Tang, Hao Wang, Ten-Ming Wu, Shinji Saito</p><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#!">Paper連接</a></p><h2 id="介紹">介紹</h2><p>這篇paper最主要的研究是過冷水，過冷水是水在溫度低於<span class="math display">\[0^oC\]</span>，但還沒結冰的時候，水的物理性質，此時水可以被分為高密度水跟低密度水，高密度水跟低密度水之間有一條分界線，稱為Widom Line，Widom Line是在水溫幾度時可以被發現？這篇paper提出了一些方法。</p>]]></content>
     
     
       
