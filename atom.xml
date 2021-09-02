@@ -6,7 +6,7 @@
   <link href="http://yuweikuo.github.io/atom.xml" rel="self"/>
   
   <link href="http://yuweikuo.github.io/"/>
-  <updated>2021-08-24T14:07:20.598Z</updated>
+  <updated>2021-09-02T11:32:16.905Z</updated>
   <id>http://yuweikuo.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人生第一篇paper</title>
+    <link href="http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/"/>
+    <id>http://yuweikuo.github.io/2021/09/02/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E7%AF%87paper/</id>
+    <published>2021-09-02T11:26:54.000Z</published>
+    <updated>2021-09-02T11:32:16.905Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="我的第一篇paper"><a href="#我的第一篇paper" class="headerlink" title="我的第一篇paper"></a>我的第一篇paper</h2><p>Paper題目：Tetrahedral structure of supercooled water at ambient pressure and its influence on dynamic relaxation: Comparative study of water models</p><p>[Paper連接] (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#">https://www.sciencedirect.com/science/article/abs/pii/S0167732221019930#</a>!)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;我的第一篇paper&quot;&gt;&lt;a href=&quot;#我的第一篇paper&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇paper&quot;&gt;&lt;/a&gt;我的第一篇paper&lt;/h2&gt;&lt;p&gt;Paper題目：Tetrahedral structure of super</summary>
+      
+    
+    
+    
+    
+    <category term="隨筆" scheme="http://yuweikuo.github.io/tags/%E9%9A%A8%E7%AD%86/"/>
+    
+    <category term="研究" scheme="http://yuweikuo.github.io/tags/%E7%A0%94%E7%A9%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>npm update指令</title>
@@ -465,28 +489,6 @@
     
     
     <category term="Bash" scheme="http://yuweikuo.github.io/tags/Bash/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yuweikuo.github.io/2021/03/21/hello-world/"/>
-    <id>http://yuweikuo.github.io/2021/03/21/hello-world/</id>
-    <published>2021-03-21T03:48:30.645Z</published>
-    <updated>2021-03-21T03:48:30.645Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-    <category term="Hexo" scheme="http://yuweikuo.github.io/tags/Hexo/"/>
     
   </entry>
   
